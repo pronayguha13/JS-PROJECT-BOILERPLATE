@@ -10,5 +10,5 @@
   rm -rf .git
   ```
 - Reinitialize the repository with another .git directory by typing the following command in terminal in repository root
-  `bash git init `
+  ```bash git init ```
   And You're good to go .
