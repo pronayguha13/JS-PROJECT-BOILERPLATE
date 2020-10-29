@@ -16,6 +16,6 @@
   ```
 - Add your new repository origin
   ```bash
-  git add origin https://github.com/pronayguha13/JS-PROJECT-BOILERPLATE.git
+  git remote add origin https://github.com/{github-user-name}/{NEW-REPOSITORY-TITLE}.git
   ```
 - And You're good to go .
