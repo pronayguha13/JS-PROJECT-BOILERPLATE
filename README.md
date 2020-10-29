@@ -4,6 +4,7 @@
   ```bash
   git clone https://github.com/pronayguha13/JS-PROJECT-BOILERPLATE
   ```
+- Go to your file manager and rename the project
 - Open Terminal in directory where you cloned the repository
 - Remove the .git directory
   ```bash
